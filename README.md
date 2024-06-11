@@ -1,4 +1,4 @@
-# Grammatical-Structure-and-Grammatical-Variations-in-Non-Metric-Iranian-Classical-Music[1]
+# Grammatical-Structure-and-Grammatical-Variations-in-Non-Metric-Iranian-Classical-Music [1]
 
 We use our introduced algorithm for parsing melodic structure (Kanani et al., 2023). Unlike much Western music, this type of non-metric music does not follow bar-centric organisation. The non-metric organisation can be captured well by our parsing algorithm. We parse each tune (Gusheh) into a grammar to identify motifs and phrases, and evaluate the grammars to demonstrate the algorithm’s effectiveness. These grammar representations can be useful for educational and ethnomusicological purposes.
 
